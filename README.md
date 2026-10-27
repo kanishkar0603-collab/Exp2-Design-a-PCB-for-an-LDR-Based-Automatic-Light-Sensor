@@ -15,7 +15,8 @@ Components
 
 Circuit Diagram
 
-![Uploading Screenshot (44).png…]()
+<img width="1366" height="768" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/bde007a8-6987-44e1-a147-f4ad5d257d84" />
+
 
 
 
