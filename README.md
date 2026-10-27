@@ -15,6 +15,7 @@ Components
 
 Circuit Diagram
 
+![Uploading Screenshot (44).png…]()
 
 
 
@@ -36,6 +37,7 @@ Verify the PCB layout using a Gerber viewer.
 
 
 Output:
+<img width="1366" height="768" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/b25e5429-b8f4-46c0-8598-8586ae564af9" />
 
 
 
