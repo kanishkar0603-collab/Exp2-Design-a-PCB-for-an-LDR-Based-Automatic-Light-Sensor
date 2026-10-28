@@ -15,6 +15,7 @@ Components
 
 Circuit Diagram
 
+<img width="1366" height="768" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/a5b489dc-904d-49f0-931d-2581f14bf7b4" />
 
 
 
@@ -36,6 +37,9 @@ Verify the PCB layout using a Gerber viewer.
 
 
 Output:
+
+<img width="1366" height="768" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/ff4a9983-f87e-4b0c-9abd-1bb781fa0bca" />
+<img width="1366" height="768" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/421d012e-efa4-4591-a8f8-70662b324522" />
 
 
 
